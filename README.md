@@ -5,9 +5,16 @@
 exe 파일을 실행시킨 뒤 입력창 부분에 지원되는 글들을 작성해주세요.
 그 후 엔터를 눌러주세요
 
-# 바이러스라고 뜰 때 해결 방법
-나중에 쓰겠습니다..
-가장 쉬운 방법은 잠시 window defender끄세요
+# 다운로드 방법 :
+![image](https://user-images.githubusercontent.com/96653318/222762891-d6fbd477-934b-4b23-b465-c5add2b96ccb.png)
+![image](https://user-images.githubusercontent.com/96653318/222762951-2e1a5154-f06b-45d6-a1e8-65b0fb8e7c49.png)
+![image](https://user-images.githubusercontent.com/96653318/222763033-3da42fad-67f8-4701-a67d-c5766d3a6b18.png)
+![image](https://user-images.githubusercontent.com/96653318/222763066-428873ad-5fec-4792-83ea-8cd6b9584bde.png)
+![image](https://user-images.githubusercontent.com/96653318/222763120-f5b52827-13eb-4193-b688-683ace1317a3.png)
+![image](https://user-images.githubusercontent.com/96653318/222763169-ae4af319-0730-49b6-8f9d-d5c4b311bc47.png)
+![image](https://user-images.githubusercontent.com/96653318/222763214-650fba0c-ae69-4f9b-ab66-644b906aab35.png)
+![image](https://user-images.githubusercontent.com/96653318/222763262-63a1ba6b-ef27-4c60-8e74-00e05f76fffc.png)
+![image](https://user-images.githubusercontent.com/96653318/222763295-fda7bf0c-a4f7-41cf-aca4-0b06c8a33e73.png)
 
 ----------
 ##### 지원되는 글들 : 알파벳(대문자, 소문자)
