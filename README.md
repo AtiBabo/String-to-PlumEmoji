@@ -5,7 +5,7 @@
 exe 파일을 실행시킨 뒤 입력창 부분에 지원되는 글들을 작성해주세요.
 그 후 엔터를 눌러주세요
 
-# 다운로드 방법 :
+# 다운로드 방법
 ![image](https://user-images.githubusercontent.com/96653318/222762891-d6fbd477-934b-4b23-b465-c5add2b96ccb.png)
 ![image](https://user-images.githubusercontent.com/96653318/222762951-2e1a5154-f06b-45d6-a1e8-65b0fb8e7c49.png)
 ![image](https://user-images.githubusercontent.com/96653318/222763033-3da42fad-67f8-4701-a67d-c5766d3a6b18.png)
